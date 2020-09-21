@@ -22,7 +22,7 @@ For prototyping, you need the following:
 
 Follow these instructions to deploy the Serverless Airline application:
 
-[![One-click deployment](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/aws-serverless-airline-booking)
+[![One-click deployment](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/sugarlosses/aws-serverless-airline-booking)
 
 1) Use **1-click deployment** button above
 2) Expand `environment variables` and add your Stripe's keys
