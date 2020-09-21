@@ -12,7 +12,7 @@
           <q-icon name="menu" />
         </q-btn>
 
-        <q-toolbar-title class="brand">Flight App</q-toolbar-title>
+        <q-toolbar-title class="brand">Arquitectos Flights</q-toolbar-title>
         <q-btn
           flat
           round
