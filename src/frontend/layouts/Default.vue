@@ -11,7 +11,9 @@
         >
           <q-icon name="menu" />
         </q-btn>
-
+        <q-btn flat dense :to="{ name: 'home' }">
+          <img src="/logo.png" />
+        </q-btn>
         <q-toolbar-title class="brand">Arquitectos Flights</q-toolbar-title>
         <q-btn
           flat
